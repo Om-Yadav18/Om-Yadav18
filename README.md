@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Om 👋
 
-<!--
-**Om-Yadav18/Om-Yadav18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C++ focused developer with strong interest in Data Structures, Algorithms and system-level programming.
 
-Here are some ideas to get you started:
+Currently building advanced DSA implementations and improving problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- Language: C++ , Python 
+- Core CS: OOP, Basic OS
+- Data Structures: Arrays, String , Recursion , Binary Search 
+- Tools: Git, GitHub
+
+  ## 🚀 Current Focus
+
+- Solving 2 DSA problems daily
+- Building a Custom Data Structures Library in C++
+- Improving STL mastery
+
+  ## 📂 Projects
+
+### 📚 Library Management System (C++)
+Console-based system using OOP and file handling for persistent storage.
+
+## 🧠 Competitive Programming
+
+- LeetCode: (https://leetcode.com/u/Om_Yadav18/)
+- Codeforces:(https://codeforces.com/profile/Om_yadav18)
+
+  ## 📫 Contact
+
+- LinkedIn: (https://www.linkedin.com/in/om-yadav-42196b37a/)
+- Email: omyadav9896@gmail.com
+
+  
+
+  
