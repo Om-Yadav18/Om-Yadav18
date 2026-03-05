@@ -1,59 +1,38 @@
 <h1 align="center">Hi 👋, I'm Om Yadav</h1>
-<h3 align="center">C++ | DSA Enthusiast | Aspiring Product Engineer</h3>
+<h3 align="center">C++ | Data Structures & Algorithms | Competitive Programming</h3>
 
 ---
 
 ## 🚀 About Me
-
 - 🎓 B.Tech CSE Student
-- 💻 Strong focus on **Data Structures & Algorithms**
-- 🧠 Building deep understanding of **STL, OOP, and System-level programming**
-- 📈 Improving problem-solving through Competitive Programming
+- 💻 Focused on **Data Structures & Algorithms**
+- 🧠 Exploring **STL internals, OOP and system-level programming**
+- 📈 Improving problem-solving through **Competitive Programming**
 
 ---
 
 ## 🛠 Tech Stack
 
-### 👨‍💻 Languages
-- C++
-- Python
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 📚 Core CS Concepts
-- Object Oriented Programming (OOP)
+### 📚 Core CS
+- Object Oriented Programming
 - Operating Systems (Basics)
 - Time & Space Complexity Analysis
 
-### 🧩 Data Structures & Algorithms
-- Arrays & Strings
-- Recursion & Backtracking
-- Binary Search & Binary Search on Answer
-- Linked List
-- Hashing (map, unordered_map)
-- STL Deep Usage
-
-### ⚙️ Tools
-- Git
-- GitHub
-- VS Code
+### ⚙ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 Competitive Programming
+## 🏆 Competitive Programming
 
-- 🔹 LeetCode: 140+ problems solved  
-  Rating: 1428 (Max: 1449)
-
-- 🔹 Codeforces: Active participant  
-  Current Rating: 393
-
----
-
-## 🚧 Current Focus
-
-- 📌 Mastering DSA patterns
-- 📌 Implementing custom data structures from scratch
-- 📌 Improving STL efficiency usage
-- 📌 Strengthening problem-solving speed
+![LeetCode](https://img.shields.io/badge/LeetCode-140%2B%20Problems-orange?style=for-the-badge&logo=leetcode)
+![Codeforces](https://img.shields.io/badge/Codeforces-Active%20Participant-blue?style=for-the-badge&logo=codeforces)
 
 ---
 
@@ -61,26 +40,51 @@
 
 ### 📚 Library Management System (C++)
 
-- Designed using OOP principles (Encapsulation, Abstraction)
-- Implemented file handling for persistent storage
-- Structured modular architecture
-- Optimized search functionality using binary search logic
-
+- Built using **OOP principles**
+- Implemented **file handling for persistent storage**
+- Modular design for maintainability
+- Implemented efficient **binary search for book lookup**
 
 ---
-## 📈 Growth Goal 2026
 
-- 🎯 300+ LeetCode problems
-- 🎯 1600+ LC rating
-- 🎯 1200+ Codeforces rating
-- 🎯 Build 3 strong technical projects
-## 📫 Connect With Me
-
-- LinkedIn: (https://www.linkedin.com/in/om-yadav-42196b37a/)
-- LeetCode: (https://leetcode.com/u/Om_Yadav18/)
-- Codeforces: (https://codeforces.com/profile/Om_yadav18)
-- Email: omyadav9896@gmail.com
 ## 📊 GitHub Activity
-![Om's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Om-Yadav18&show_icons=true&theme=tokyonight)
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Om-Yadav18&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Om-Yadav18&theme=tokyonight" />
+</p>
+---
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Om-Yadav18&layout=compact&theme=tokyonight)
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Om_Yadav18?theme=dark&font=Karma)
+
+---
+
+## 🎯 2026 Goals
+- Solve **350+ LeetCode problems**
+- Reach **1600+ LeetCode rating**
+- Reach **1200+ Codeforces rating**
+- Build **3 strong technical projects**
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/om-yadav-42196b37a/">
+<img src="https://img.shields.io/badge/LinkedIn-Om%20Yadav-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/Om_Yadav18/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://codeforces.com/profile/Om_yadav18">
+<img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces"/>
+</a>
+
+<a href="mailto:omyadav9896@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
