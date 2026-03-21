@@ -29,7 +29,12 @@
 
 ---
 
+## 🏆 Competitive Programming
 
+![LeetCode](https://img.shields.io/badge/LeetCode-140%2B%20Problems-orange?style=for-the-badge&logo=leetcode)
+![Codeforces](https://img.shields.io/badge/Codeforces-Active%20Participant-blue?style=for-the-badge&logo=codeforces)
+
+---
 
 ## 💼 Projects
 
@@ -48,6 +53,11 @@
 </p>
 ---
 
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Om_Yadav18?theme=dark&font=Karma)
+
+---
 
 ## 🎯 2026 Goals
 - Solve **350+ LeetCode problems**
@@ -65,6 +75,8 @@
 <img src="https://img.shields.io/badge/LinkedIn-Om%20Yadav-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
+<a href="https://leetcode.com/u/Om_Yadav18/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="https://codeforces.com/profile/Om_yadav18">
