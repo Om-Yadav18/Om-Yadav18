@@ -31,7 +31,7 @@
 
 ## 🏆 Competitive Programming
 
-![LeetCode](https://img.shields.io/badge/LeetCode-140%2B%20Problems-orange?style=for-the-badge&logo=leetcode)
+![LeetCode](https://img.shields.io/badge/LeetCode-160%2B%20Problems-orange?style=for-the-badge&logo=leetcode)
 ![Codeforces](https://img.shields.io/badge/Codeforces-Active%20Participant-blue?style=for-the-badge&logo=codeforces)
 
 ---
