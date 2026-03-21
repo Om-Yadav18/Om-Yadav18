@@ -83,7 +83,7 @@
 <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces"/>
 </a>
 
-<a href="mailto:omyadav9896@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=omyadav9896@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
