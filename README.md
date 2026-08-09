@@ -6,7 +6,7 @@
 ## 🚀 About Me
 - 🎓 B.Tech CSE Student
 - 💻 Focused on **Data Structures & Algorithms**
-- 🧠 Exploring **STL internals, OOP and system-level programming**
+- 🧠 Exploring **STL internals and system-level programming**
 - 📈 Improving problem-solving through **Competitive Programming**
 
 ---
@@ -19,7 +19,7 @@
 
 ### 📚 Core CS
 - Object Oriented Programming
-- Operating Systems (Basics)
+- Operating Systems 
 - Time & Space Complexity Analysis
 
 ### ⚙ Tools
@@ -46,13 +46,14 @@
 - Implemented efficient **binary search for book lookup**
 
 ---
-
 ## 📊 GitHub Activity
-<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Om-Yadav18&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Om-Yadav18&theme=tokyonight" />
-</p>
----
 
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Om-Yadav18&show_icons=true&theme=tokyonight" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Om-Yadav18&theme=tokyonight" />
+</p>
+
+---
 ## 🧠 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Om_Yadav18?theme=dark&font=Karma)
