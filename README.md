@@ -1,13 +1,20 @@
 <h1 align="center">Hi 👋, I'm Om Yadav</h1>
-<h3 align="center">C++ | Data Structures & Algorithms | Competitive Programming</h3>
+
+<h3 align="center">
+Software Engineer in Progress • DSA • Learning Full-Stack Development
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Solving+DSA+Problems;Building+Full-Stack+Applications;Exploring+AI+%26+LLM+Applications;Learning+%26+Building+Every+Day" />
+</p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech CSE Student
-- 💻 Focused on **Data Structures & Algorithms**
-- 🧠 Exploring **STL internals and system-level programming**
-- 📈 Improving problem-solving through **Competitive Programming**
+- 🎓 B.Tech Computer Science & Engineering student
+- 🧠 Focused on **Data Structures & Algorithms** and problem solving
+- 💻 Building **full-stack web applications**
+- 🤖 Exploring **AI, LLMs, and AI-powered applications**
 
 ---
 
